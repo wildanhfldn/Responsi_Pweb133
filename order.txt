@@ -1,0 +1,48 @@
+Nama: h, Elektronik: Refrigerator
+Nama: h
+elektronik: Refrigerator
+----------------------------------
+Nama: e, menu: Washing Machine
+Nama: e
+menu: Washing Machine
+----------------------------------
+Nama: t, menu: paket 3
+Nama: t
+menu: paket 3
+----------------------------------
+Nama: d, menu: paket 3
+Nama: d
+menu: paket 3
+----------------------------------
+Nama: d, menu: paket 3
+Nama: d
+menu: paket 3
+----------------------------------
+Nama: d, menu: paket 3
+Nama: d
+menu: paket 3
+----------------------------------
+Nama: d, menu: paket 3
+Nama: d
+menu: paket 3
+----------------------------------
+Nama: f, menu: paket 4
+Nama: f
+menu: paket 4
+----------------------------------
+Nama: t
+Menu: undefined
+
+Nama: dan, Elektronik: Washing Machine
+Nama: dan
+elektronik: Washing Machine
+----------------------------------
+Nama: dan, Elektronik: TV
+Nama: uy, menu: 
+Nama: uy
+menu: 
+----------------------------------
+Nama: uy, menu: 
+Nama: uy
+menu: 
+----------------------------------
